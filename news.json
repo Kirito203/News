@@ -5,7 +5,7 @@
     "title": "Вышла версия 0.02!",
     "content": [
       { "type": "text",  "value": "Коротко о главном: новая локация и переработанный баланс." },
-      { "type": "image", "value": "https://твой-сайт.ru/img/detector.png" },
+      { "type": "image", "value": "https://твой-сайт.ru/img/detecto1r.png" },
       { "type": "text",  "value": "А вот так выглядит переработанный детектор:" },
       { "type": "image", "value": "https://твой-сайт.ru/img/detector.png" },
       { "type": "text",  "value": "Полный список изменений — на странице загрузки." }
