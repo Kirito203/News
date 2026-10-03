@@ -1,0 +1,15 @@
+[
+  {
+    "tag": "UPDATE",
+    "date": "04.10.2026",
+    "title": "Вышла версия 0.02!",
+    "content": [
+      { "type": "text",  "value": "Коротко о главном: новая локация и переработанный баланс." },
+      { "type": "image", "value": "https://твой-сайт.ru/img/0.02_map.jpg" },
+      { "type": "text",  "value": "А вот так выглядит переработанный детектор:" },
+      { "type": "image", "value": "https://твой-сайт.ru/img/detector.png" },
+      { "type": "text",  "value": "Полный список изменений — на странице загрузки." }
+    ],
+    "link": "https://твой-сайт.ru/download"
+  }
+]
